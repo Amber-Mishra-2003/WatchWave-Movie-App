@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Amber-Mishra-2003/Web-Devlopment-Projects/blob/main/2.%20WatchWave%20Movie%20App%20-%20%20Hotstar%20Clone/Project.png">
 
-
+# [Live Link](https://amber-mishra-2003.github.io/WatchWave-Movie-App/) for project
 ## Description 
 
 - WatchWave is a Hotstar-inspired movie app clone developed using HTML, CSS, and Javascript.
